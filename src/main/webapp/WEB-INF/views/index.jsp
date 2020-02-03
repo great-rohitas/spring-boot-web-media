@@ -14,7 +14,7 @@
   <h1>Spring Boot - MVC web application example</h1>
   <hr>
 <video width="800" height="250" controls>
-    <source src="files/video/movie.mp4" type="video/mp4" >
+    <source src="resources/movie.mp4" type="video/mp4" >
         Your browser does not support the video tag.
   </video>
   <div class="form">
