@@ -27,6 +27,16 @@
         </tr>
       </table>
     </form>
+    
+    <form action="hello2" method="post" onsubmit="return validate()">
+      <table>
+        <tr>
+          <td>Enter Your name</td>
+          <td><input id="name" name="name"></td>
+          <td><input type="submit" value="Submit"></td>
+        </tr>
+      </table>
+    </form>
   </div>
 
 </body>
